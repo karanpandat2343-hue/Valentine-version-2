@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #f9dcdc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #b33;
+}
+
+.buttons {
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 25px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.yes-button {
+  background-color: green;
+  color: white;
+}
+
+.no-button {
+  background-color: red;
+  color: white;
+  margin-left: 10px;
+}
+
+.cat {
+  width: 150px;
+  margin-top: 20px;
+}
