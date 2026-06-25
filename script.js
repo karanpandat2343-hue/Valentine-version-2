@@ -4,7 +4,7 @@ const messages = [
   "sari baat manuga thumari",
   "Pleaseeee🥺",
   "momos bhi khilaunga roj 🥺",
-  "Last chance 😭"
+  "Last chance 😭
 ];
 
 let messageIndex = 0;
